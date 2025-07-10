@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SYRfTuzW/pw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\AzureBlob-FileAPI\\AzureBlob-FileAPI\\AzureBlob-FileAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natsu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\natsu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
